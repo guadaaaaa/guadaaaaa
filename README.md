@@ -1,5 +1,5 @@
 ## 💙 About Me
-- 🌱 I’m currently learning what gets my attention and curiousity
+- 🌱 I’m currently learning what captures my attention and curiosity
 - ⚡ Fun fact: none :>
 
 ## 🛠️ Skills & Technologies
