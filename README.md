@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning what captures my attention and curiosity
 - ⚡ Fun fact: none :>
 
-## 🛠️ Skills & Technologies
+## 🛠️ Tech Stack
 
 ### 📜 Programming Languages:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
