@@ -54,7 +54,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guadaaaaa&layout=compact&theme=tokyonight)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=guadaaaaa&theme=tokyo-night)
 ## 🔥 GitHub Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=guadaaaaa&theme=dark&hide_border=false)
+![GitHub Streak](https://github-readme-streak-stats-five-steel.vercel.app?user=guadaaaaa&&theme=github-dark-blue&background=45%2C000000ff%2C000000ff&hide_border=false)
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=guadaaaaa&theme=onedark)
 
