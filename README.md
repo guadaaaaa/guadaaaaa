@@ -2,6 +2,19 @@
 - 🌱 I’m currently learning what captures my attention and curiosity
 - ⚡ Fun fact: none :>
 
+### 🎧 Spotify
+<table>
+  <tr>
+    <td>
+      <img src="https://spotify-recently-played-readme.vercel.app/api?user=cc1ro633wzjylsj3fhvghd036&count=7&width=400">
+    </td>
+    <td>
+      <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=cc1ro633wzjylsj3fhvghd036&redirect=true">
+      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=cc1ro633wzjylsj3fhvghd036&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing" />
+    </td>
+  </tr>
+</table>
+
 ## 🛠️ Tech Stack
 
 ### 📜 Programming Languages:
