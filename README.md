@@ -19,7 +19,6 @@
 
 ## 🌟 Contributions
 
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=guadaaaaa&theme=react)
 ![Snake](https://raw.githubusercontent.com/guadaaaaa/guadaaaaa/output/github-snake-dark.svg)
 
 ## 🛠️ Tech Stack
