@@ -62,12 +62,19 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guadaaaaa&show_icons=true&theme=tokyonight)
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=guadaaaaa&show_icons=true&theme=tokyonight" 
+  height="250"
+  />
 <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=guadaaaaa&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=15&bg_color=#2596be" 
-  height="195"
+  height="250"
   />
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=guadaaaaa&theme=tokyo-night)
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=guadaaaaa&theme=tokyo-night" 
+  width="915"
+  />
 
 ## 🔥 GitHub Streak Stats
 
