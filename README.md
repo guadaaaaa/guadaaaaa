@@ -62,9 +62,8 @@
 
 ## 📊 GitHub Stats
 
-
 <img
-  src="https://github-readme-stats.vercel.app/api?username=guadaaaaa&show_icons=true&theme=tokyonight" 
+  src="https://github-readme-stats.vercel.app/api?username=guadaaaa&show_icons=true&theme=tokyonight" 
   height="200"
   />
 <img
@@ -76,9 +75,19 @@
   width="733"
   />
 
-## 🔥 GitHub Streak Stats
+## 🔥 GitHub Streak
 
 ![GitHub Streak](https://github-readme-streak-stats-five-steel.vercel.app?user=guadaaaaa&&theme=github-dark-blue&background=45%2C000000ff%2C000000ff&hide_border=false)
+
+## 🐱 Pets
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=guadaaaaa&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/guadaaaaa"
+  width="600"
+  height="300"
+/>
+</a>
 
 ## 🏆 GitHub Trophies
 
