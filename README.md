@@ -65,15 +65,15 @@
 
 <img
   src="https://github-readme-stats.vercel.app/api?username=guadaaaaa&show_icons=true&theme=tokyonight" 
-  height="230"
+  height="200"
   />
 <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=guadaaaaa&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=15&bg_color=#2596be" 
-  height="230"
+  height="200"
   />
 <img
   src="https://github-readme-activity-graph.vercel.app/graph?username=guadaaaaa&theme=tokyo-night" 
-  width="845"
+  width="733"
   />
 
 ## 🔥 GitHub Streak Stats
